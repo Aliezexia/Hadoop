@@ -1,4 +1,4 @@
-# USCHadoop
+# Hadoop
 Hadoop简单Maven项目搭建
 
 #### 使用注意事项
